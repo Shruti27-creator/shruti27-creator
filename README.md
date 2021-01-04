@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi,I'm Shruti🙋‍♀️
 
-<!--
-**Shruti27-creator/shruti27-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ I am technophile who is passionate towards learning new and high end technologies from its core level. I have a passion for learning and sharing my knowledge with others a public as possible.
+
+##### WHAT I DO ? 
+
+- 🌱 I’m currently learning Ansible.
+- 👯 I’m looking to collaborate on projects and Hackathons 
+- 💬 Ask me about anything
+- 📫 How to reach me: linkedin - https://www.linkedin.com/in/shruti-sharma-5b890b186/
+- 😄 Pronouns: she/Her
+- ⚡ Fun fact:  I create some tcechnical blog post mainly on how to integrate the technologies to each other.You can see my blogs on Linkedin
