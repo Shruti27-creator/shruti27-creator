@@ -2,7 +2,7 @@
 
 
 
- I am technophile who is passionate towards learning new and high end technologies from its core level. I have a passion for learning and sharing my knowledge with others a public as possible.
+ I am technophile who is passionate towards learning new and high end technologies from its core level. I have a passion for learning and sharing my knowledge with others as public as possible.
 
 ##### WHAT I DO ? 
 
